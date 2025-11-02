@@ -50,7 +50,7 @@ Un IDE como Eclipse
 
 Clona el repositorio en tu máquina:
 
-git clone https://github.com/tu_usuario/gestion-contactos.git
+git clone [https://github.com/tu_usuario/gestion-contactos.git](https://github.com/sebayou7-lang/PDIG---u1)
 
 
 Abre el proyecto en tu IDE favorito (Eclipse o IntelliJ IDEA).
@@ -70,4 +70,5 @@ Editar Contactos: Cambia cualquier detalle de los contactos ya registrados.
 Eliminar Contactos: Elimina aquellos contactos que ya no necesites.
 
 Exportación a CSV: Guarda todos los contactos en un archivo CSV para respaldos o compartirlos.
+
 
